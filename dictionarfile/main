@@ -1,0 +1,3 @@
+from mydict import cast
+b =cast["char1"]
+print(b)
